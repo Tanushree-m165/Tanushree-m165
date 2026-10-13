@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Tanushree M<br>🌱 I’m currently learning Data Structures and Algorithms<br>📫 Reach out to me at tanushreem1605@gmail.com
+Hi 👋, I'm Tanushree M<br>🌱 I’m currently learning Data Science<br>📫 Reach out to me at tanushreem1605@gmail.com
 
 
 ## 🌐 Socials:
